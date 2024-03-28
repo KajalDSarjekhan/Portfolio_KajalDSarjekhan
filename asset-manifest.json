@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KajalDSarjekhan/static/css/main.f855e6bc.css",
+    "main.js": "/KajalDSarjekhan/static/js/main.1d542e3b.js",
+    "static/js/453.3d177109.chunk.js": "/KajalDSarjekhan/static/js/453.3d177109.chunk.js",
+    "static/media/HeroImage.jpg": "/KajalDSarjekhan/static/media/HeroImage.c4ba8e575e84616ed937.jpg",
+    "index.html": "/KajalDSarjekhan/index.html",
+    "main.f855e6bc.css.map": "/KajalDSarjekhan/static/css/main.f855e6bc.css.map",
+    "main.1d542e3b.js.map": "/KajalDSarjekhan/static/js/main.1d542e3b.js.map",
+    "453.3d177109.chunk.js.map": "/KajalDSarjekhan/static/js/453.3d177109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1d542e3b.js"
+  ]
+}
